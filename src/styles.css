@@ -1,0 +1,61 @@
+body{
+	background-color: #110000;
+	margin: 0;
+}
+p{
+	margin: 0;
+}
+
+#game{
+    margin:5% auto 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    display:block;
+    border:3px solid #555;
+    border-radius:3px;
+    background-color: #292634;
+    height: 99vh;
+}
+
+
+#gameText0,#gameText1,#gameText2,#gameText3,#gameText4{
+	 font-family: larger Lato, Roboto, sans-serif;
+	 font-weight: 300;
+	 font-variant: small-caps;
+	 text-align: center;
+	 position: absolute;
+	 color: transparent;
+ }
+#gameText0{
+	font-size: 4em;
+	top: 45vh;
+	width: 100%;
+}
+#gameText1{
+	 font-size: 2em;
+	 top: 1vh;
+	 left: 5%;
+ }
+#gameText2{
+	 font-size: 2em;
+	 top: 1vh;
+	 left: 86%;
+ }
+#gameText3{
+	 font-size: 2em;
+	 top: 1vh;
+	 width: 100%;
+ }
+#gameText4{
+	 font-size: 2em;
+	 top: 90vh;
+	 width: 100%;
+	 color: white;
+ }
+
+ 
+
+ 
+ 
+ 
